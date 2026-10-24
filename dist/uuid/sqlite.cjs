@@ -1,0 +1,1 @@
+Object.defineProperty(exports,Symbol.toStringTag,{value:`Module`});const e=require("../binary-Byo30iBG.cjs");let t=require("drizzle-orm/sqlite-core");const n={dataType:()=>`blob`,forJsonSelect:e.n,fromDriver:e.r,fromJson:e.i,toDriver:e.o,[e.t]:!0},r=(0,t.customType)(n);exports.buuid=r;

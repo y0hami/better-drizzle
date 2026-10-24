@@ -1,0 +1,1 @@
+Object.defineProperty(exports,Symbol.toStringTag,{value:`Module`});const e=require("./plugins-D1inq7VD.cjs");exports.definePlugin=e.t;

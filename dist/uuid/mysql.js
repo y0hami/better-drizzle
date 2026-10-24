@@ -1,0 +1,1 @@
+import{i as e,n as t,o as n,r,t as i}from"../binary-T8ujypJ_.js";import{customType as a}from"drizzle-orm/mysql-core";const o=a({dataType:()=>`binary(16)`,forJsonSelect:t,fromDriver:r,fromJson:e,toDriver:n,[i]:!0});export{o as buuid};

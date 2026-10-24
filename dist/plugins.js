@@ -1,0 +1,1 @@
+import{t as e}from"./plugins-D85fCNV3.js";export{e as definePlugin};

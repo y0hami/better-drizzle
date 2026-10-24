@@ -1,0 +1,1 @@
+const e=Symbol.for(`better-drizzle/deferred-operation`),t=t=>({[e]:t}),n=(t,n,r)=>{let i=typeof t==`object`&&t?t[e]:void 0;return Promise.resolve(typeof i==`function`?i(()=>n(r)):t)};export{n,t};
